@@ -1,4 +1,4 @@
-# SPACE WAR GAME
+# SPACE WARS GAME
 ## Introduction to engineering project
 ###### Furkan Ay & Zafer Yılmaz
 This game is a space combat game. 
