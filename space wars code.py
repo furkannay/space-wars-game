@@ -2,6 +2,8 @@ import turtle
 import random
 import winsound
 
+
+
 window = turtle.Screen()
 window.bgcolor('black')
 window.title('Space Battle')
