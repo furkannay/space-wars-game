@@ -16,7 +16,7 @@ turtle.register_shape('shoot.gif')
 
 player = turtle.Turtle()
 player.color('blue')
-player.speed(0)
+player.speed(1)
 player.shape('player.gif')
 player.setheading(90)
 player.penup()
@@ -96,7 +96,7 @@ for i in range(7):
     targets.append(turtle.Turtle())
 for target in targets:
     target.color('red')
-    target.speed(0)
+    target.speed(3)
     target.turtlesize(1, 1)
     target.shape('enemy.gif')
     target.penup()
